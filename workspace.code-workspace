@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\javascript programming"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string.h": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "javascript programming"
+	}
+}

@@ -1,0 +1,1 @@
+Name = Pratiphal	Address = Gothatar	Roll = 22	Age = 18
